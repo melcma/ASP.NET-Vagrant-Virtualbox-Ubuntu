@@ -1,4 +1,4 @@
-ASP.NET on Ubuntu Server virtual machine
+ASP.NET Core on Ubuntu Server virtual machine
 
 Set-up
 1. Install VirtualBox https://www.virtualbox.org/wiki/Downloads
