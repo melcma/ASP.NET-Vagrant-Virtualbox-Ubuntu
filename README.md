@@ -8,11 +8,11 @@ Set-up
 
 
 Create ASP.NET application
-5. vagrant ssh aspnet
-6. cd /var/www
-7. dotnet new mvc
+1. vagrant ssh aspnet
+2. cd /var/www
+3. dotnet new mvc
 
 
 Debug on port 8001
-8. ASPNETCORE_URLS=http://0.0.0.0:8001 dotnet run
-9. Visit localhost:8001 on host machine, application should be running
+1. ASPNETCORE_URLS=http://0.0.0.0:8001 dotnet run
+2. Visit localhost:8001 on host machine, application should be running
