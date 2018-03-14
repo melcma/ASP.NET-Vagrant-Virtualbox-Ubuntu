@@ -6,10 +6,12 @@ Set-up
 3. Clone this repository
 4. Vagrant up
 
+
 Create ASP.NET application
 5. vagrant ssh aspnet
 6. cd /var/www
 7. dotnet new mvc
+
 
 Debug on port 8001
 8. ASPNETCORE_URLS=http://0.0.0.0:8001 dotnet run
